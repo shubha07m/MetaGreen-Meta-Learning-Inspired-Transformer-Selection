@@ -13,7 +13,7 @@ Additionally, EOSL's applicability extends to various contexts using Meta-Learni
 
 ## References
 
-- [Paper on arXiv](https://arxiv.org/abs/2310.07592)
+- [arXiv preprint](https://713fa52f-7957-4597-96b9-8a21d9060875.filesusr.com/ugd/303928_bf88bc87be9b4ec59215341e5a3fb642.pdf)
 
 
 ## Cite the Paper
