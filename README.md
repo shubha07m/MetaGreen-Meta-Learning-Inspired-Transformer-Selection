@@ -11,3 +11,18 @@ Additionally, EOSL's applicability extends to various contexts using Meta-Learni
 
 ![Variation of topic contex of images](https://github.com/shubha07m/MetaGreen/blob/main/contexts.png)
 
+## References
+
+- [Paper on arXiv](https://arxiv.org/abs/2310.07592)
+
+
+## Cite the Paper
+
+If you like our work, please consider cite it as follows:
+
+@article{mukherjee2023transformers,
+  title={MetaGreen: Meta-Learning Inspired Transformer Selection for Green Semantic Communication},
+  author={Mukherjee, Shubhabrata and Beard, Cory and Song, Sejun},
+  journal={arXiv preprint arXiv:2310.07592},
+  year={2024}
+}
