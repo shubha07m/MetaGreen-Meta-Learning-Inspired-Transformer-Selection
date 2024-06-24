@@ -1,4 +1,4 @@
-# Meta-Learning Inspired Transformer Selection for Green Semantic Communication:
+# Meta-Learning Inspired Transformer Selection for Green Semantic Communication
 
 ![End to end image/text transformer based SemCom with communication channel](https://github.com/shubha07m/MetaGreen/blob/main/semcom_transformers.png)
 Semantic Communication focuses on transmitting meaningful and effective content instead of just individual symbols or bits. This method promises to reduce latency, lower bandwidth usage, and increase throughput compared to traditional communication methods. However, a key challenge is the lack of universal metrics to measure both semantic information loss and energy consumption.
