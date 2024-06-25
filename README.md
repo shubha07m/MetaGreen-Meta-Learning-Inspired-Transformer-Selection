@@ -16,6 +16,10 @@ Additionally, EOSL's applicability extends to various contexts using Meta-Learni
 - [paper preprint](https://713fa52f-7957-4597-96b9-8a21d9060875.filesusr.com/ugd/303928_bf88bc87be9b4ec59215341e5a3fb642.pdf)
 
 
+## Our Previous work on EOSL
+
+- [Energy-optimized-semantic-loss](https://github.com/shubha07m/Energy-optimized-semantic-loss)
+
 ## Cite the Paper
 
 If you like our work, please consider cite it as follows:
