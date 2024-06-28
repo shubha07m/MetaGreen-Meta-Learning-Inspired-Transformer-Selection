@@ -24,12 +24,9 @@ Additionally, EOSL's applicability extends to various contexts using Meta-Learni
 
 If you like our work, please consider cite it as follows:
 
-@article{mukherjee2024metagreenmetalearninginspiredtransformer,
-      title={MetaGreen: Meta-Learning Inspired Transformer Selection for Green Semantic Communication}, 
-      author={Shubhabrata Mukherjee and Cory Beard and Sejun Song},
-      year={2024},
-      eprint={2406.16962},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-      url={https://arxiv.org/abs/2406.16962}, 
+@article{mukherjee2024metagreen,
+  title={MetaGreen: Meta-Learning Inspired Transformer Selection for Green Semantic Communication},
+  author={Mukherjee, Shubhabrata and Beard, Cory and Song, Sejun},
+  journal={arXiv preprint arXiv:2406.16962},
+  year={2024}
 }
